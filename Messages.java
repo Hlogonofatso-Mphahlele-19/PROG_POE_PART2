@@ -6,7 +6,7 @@ package chatapplication;
 
 /**
  *
- * @author hlogo
+ * @author Hlogonofatso Mphahlele
  */
 public class Messages {
     
